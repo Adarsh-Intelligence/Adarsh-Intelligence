@@ -18,7 +18,7 @@
 
 | Field | Value |
 |---|---|
-| **Model name** | Adarsh-2026 |
+| **Model name** | Adarsh-Intelligence|
 | **Architecture** | B.Tech CSE (AI & ML), Rungta College of Engineering and Technology, Bhilai |
 | **Training window** | Sept 2024 → June 2028 |
 | **Specialisations** | Machine Learning, LLMs & RAG, Computer Vision, Full-Stack |
