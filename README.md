@@ -1,72 +1,117 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:196c2e,100:2ea043&height=260&section=header&text=ADARSH%20DWIVEDI&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Turning%20data%20into%20intelligence%20%F0%9F%A7%A0&descAlignY=62&descSize=20" width="100%" alt="header" />
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=39D353&center=true&vCenter=true&multiline=false&width=760&height=45&lines=%3E+AI+%2F+ML+Engineer+in+the+making+%F0%9F%A4%96;%3E+Training+a+Mini+LLM+from+scratch+%F0%9F%94%A5;%3E+Super-resolving+satellite+images+%F0%9F%9B%B0%EF%B8%8F;%3E+Grinding+DSA+in+python+%E2%98%95;%3E+Campus+Lead+%40+OSCG+'26+%F0%9F%8C%8D" alt="typing" />
+  <img src="./assets/neural-banner.svg" alt="Adarsh Dwivedi - neural network banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dwivediadarsh496-commits&label=PROFILE+VIEWS&color=39d353&style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=39D353&center=true&vCenter=true&width=780&lines=model.fit(curiosity%2C+epochs%3D%E2%88%9E)+%F0%9F%A7%A0;Training+a+Mini+LLM+from+scratch;Super-resolving+satellite+images+with+SwinIR+%F0%9F%9B%B0%EF%B8%8F;Building+RAG+chatbots+that+actually+retrieve+%F0%9F%92%AC;Detecting+phishing+and+fraud+with+ML+%F0%9F%9B%A1%EF%B8%8F" alt="typing" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dwivediadarsh496-commits&label=INFERENCES&color=39d353&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/dwivediadarsh496-commits?style=for-the-badge&color=39d353&logo=github&label=FOLLOWERS" />
   <img src="https://img.shields.io/badge/B.TECH-CSE%20(AI%20%26%20ML)-39d353?style=for-the-badge" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-## 🖥️ `whoami`
+## 🧬 Model Card
 
-```bash
-$ whoami
-adarsh-dwivedi
+| Field | Value |
+|---|---|
+| **Model name** | Adarsh-2026 |
+| **Architecture** | B.Tech CSE (AI & ML), Rungta College of Engineering and Technology, Bhilai |
+| **Training window** | Sept 2024 → June 2028 |
+| **Specialisations** | Machine Learning, LLMs & RAG, Computer Vision, Full-Stack |
+| **Fine-tuned on** | DSA (Java), PyTorch, FastAPI, Next.js, MERN |
+| **Deployed role** | Campus Lead, Open Source Connect Global '26 |
+| **Currently training on** | Transformers, advanced DSA, MERN stack |
+| **Loss function** | `bugs + procrastination` → minimise 📉 |
 
-$ cat about.txt
-🎓 B.Tech CSE (AI & ML) @ Rungta College of Engineering and Technology, Bhilai
-🤖 Into Machine Learning, Deep Learning, LLMs, RAG and Full-Stack
-🧠 Solving DSA regularly, all in python
-🌍 Campus Lead, Open Source Connect Global '26
-🌱 Learning: Transformers, MERN Stack, Advanced DSA
+---
 
-$ echo $MOTTO
-Learn in public. Build one project at a time. 🚀
+## 🖥️ Training Log
+
+```text
+$ python train.py --model adarsh --data projects --epochs 2026
+
+Epoch [Apr 2026]  SafeMail AI ........... phishing detector     ✔ done
+Epoch [May 2026]  GeoSR - AI ............ super-resolution      ✔ done
+Epoch [May 2026]  Mini LLM .............. transformer scratch   ✔ done
+Epoch [May 2026]  Chat Bot RAG .......... retrieval + LLM       ✔ done
+Epoch [Aug 2026]  Digital Frontier ...... MERN, 60 hrs          ✔ done
+Epoch [Sep 2026]  Fraud Detection ....... anomaly detection     ✔ done
+Epoch [Sep 2026]  OSCG '26 .............. Campus Lead           ✔ selected
+
+status: still training... accuracy improving every day 📈
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-## 🔥 Featured Projects
+## 🗺️ Learning Journey
+
+```mermaid
+timeline
+    title My AI / ML Timeline
+    2024 : Joined B.Tech CSE (AI and ML)
+    Apr 2026 : SafeMail AI, phishing detection with NLP
+    May 2026 : GeoSR AI satellite super-resolution
+             : Mini LLM from scratch
+             : Chat Bot RAG
+    Aug 2026 : MERN full-stack training, 60 hrs
+    Sep 2026 : Fraud detection system
+             : Campus Lead at OSCG 26
+```
+
+---
+
+## 🛰️ Flagship: GeoSR – AI Pipeline
+
+```mermaid
+flowchart LR
+    A[🛰️ Satellite GeoTIFF] --> B[Tile Splitter]
+    B --> C{Model}
+    C --> D[SRCNN]
+    C --> E[EDSR]
+    C --> F[SwinIR]
+    D --> G[Tile Merger]
+    E --> G
+    F --> G
+    G --> H[🗺️ High-Res GeoTIFF<br/>metadata preserved]
+    I[FastAPI Backend] -.-> B
+    J[Next.js Frontend] --> I
+```
+
+---
+
+## 🔥 Experiments
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛰️ GeoSR – AI</h3>
-      Satellite image super-resolution with SRCNN, EDSR and SwinIR. GeoTIFF multi-band support, metadata preserved, tile-based inference for huge images.<br><br>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
       <h3>🧠 Mini LLM From Scratch</h3>
-      Character-level language model on WikiText-2. Tokenization, embeddings, transformer attention and text generation, all built by hand.<br><br>
+      Character-level language model on WikiText-2: tokenization, embeddings, transformer attention, text generation.<br><br>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/Transformers-39d353?style=flat-square" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>💬 Chat Bot RAG</h3>
-      Retrieval-Augmented Generation chatbot with semantic search and vector embeddings for context-aware answers.<br><br>
+      Retrieval-Augmented Generation with semantic search and vector embeddings for context-aware answers.<br><br>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
       <img src="https://img.shields.io/badge/Vector_DB-39d353?style=flat-square" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📧 SafeMail AI</h3>
-      Full-stack phishing email detector. TF-IDF + Logistic Regression with a real-time prediction UI.<br><br>
+      Phishing email detector using TF-IDF + Logistic Regression, with a real-time prediction UI.<br><br>
       <img src="https://img.shields.io/badge/NLP-39d353?style=flat-square" />
       <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>💳 Fraud Detection for Fake Payments</h3>
-      Preprocessing, feature analysis and classification models to catch fraudulent transactions.
+    <td width="50%" valign="top">
+      <h3>💳 Fraud Detection</h3>
+      Fake payment detection: preprocessing, feature analysis and classification models.<br><br>
+      <img src="https://img.shields.io/badge/Anomaly_Detection-39d353?style=flat-square" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -80,9 +125,9 @@ Learn in public. Build one project at a time. 🚀
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,mysql,html,css,pytorch,tensorflow,sklearn,fastapi,nextjs,react,nodejs,mongodb,git,github,vscode,postman&theme=dark&perline=9" />
@@ -99,25 +144,23 @@ Learn in public. Build one project at a time. 🚀
   <code>Linear Regression</code> <code>Logistic Regression</code> <code>KNN</code> <code>Decision Tree</code> <code>Random Forest</code> <code>SVM</code> <code>K-Means</code> <code>Q-Learning</code> <code>Transformers</code>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-## 🏆 Trophies & Certifications
+## 🏆 Certifications
+
+| Certificate | Issuer |
+|---|---|
+| Introduction to Machine Learning Operations | Microsoft AI Classroom |
+| Data Science AI/ML | Coding Spoon |
+| Prompt Design in Vertex AI | Google Cloud |
+| Contributor Certificate | Open Source Connect Global 2026 |
+| 8+ AI learning certificates and 30+ Microsoft learning badges | Various |
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dwivediadarsh496-commits&theme=github_dark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 </p>
 
-| 🎖️ Achievement | Details |
-|---|---|
-| **Campus Lead** | Open Source Connect Global '26 |
-| **Vocational Training** | Digital Frontier, 60 hrs, MERN Full-Stack |
-| **Microsoft AI Classroom** | Introduction to Machine Learning Operations |
-| **Coding Spoon** | Data Science AI/ML |
-| **Google Cloud** | Prompt Design in Vertex AI |
-| **OSCG 2026** | Contributor Certificate |
-| **Plus** | 8+ AI certificates and 30+ Microsoft learning badges |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ## 📊 GitHub Analytics
 
@@ -140,7 +183,7 @@ Learn in public. Build one project at a time. 🚀
   <img src="https://ghchart.rshah.org/39d353/dwivediadarsh496-commits" alt="green dots" />
 </p>
 
-### 🐍 Snake eating my contributions
+### 🐍 Snake
 
 <p align="center">
   <picture>
@@ -150,9 +193,9 @@ Learn in public. Build one project at a time. 🚀
   </picture>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-## 📫 Let's Connect
+## 📫 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -161,6 +204,6 @@ Learn in public. Build one project at a time. 🚀
   <a href="https://www.youtube.com/@YOUR-CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>⭐ If you like my work, drop a star. Let's build something awesome together! ⭐</i></p>
+<p align="center"><i>🧠 "The best model is the one that keeps learning." ⭐</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:0d1117&height=110&section=footer" width="100%" />
