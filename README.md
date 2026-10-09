@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/neural-banner.svg" alt="Adarsh Dwivedi - neural network banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:196c2e,100:39d353&height=300&section=header&text=ADARSH%20DWIVEDI&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Building%20Intelligence%2C%20One%20Model%20at%20a%20Time&descAlignY=64&descSize=20" width="100%" alt="Adarsh Dwivedi" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,nextjs,java&theme=dark" />
 </p>
 
 <p align="center">
@@ -7,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dwivediadarsh496-commits&label=INFERENCES&color=39d353&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/dwivediadarsh496-commits?style=for-the-badge&color=39d353&logo=github&label=FOLLOWERS" />
+  <img src="https://komarev.com/ghpvc/?username=Adarsh-Intelligence&label=INFERENCES&color=39d353&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Adarsh-Intelligence?style=for-the-badge&color=39d353&logo=github&label=FOLLOWERS" />
   <img src="https://img.shields.io/badge/B.TECH-CSE%20(AI%20%26%20ML)-39d353?style=for-the-badge" />
 </p>
 
@@ -18,7 +22,7 @@
 
 | Field | Value |
 |---|---|
-| **Model name** | Adarsh-Intelligence|
+| **Model name** | Adarsh-Intelligence |
 | **Architecture** | B.Tech CSE (AI & ML), Rungta College of Engineering and Technology, Bhilai |
 | **Training window** | Sept 2024 → June 2028 |
 | **Specialisations** | Machine Learning, LLMs & RAG, Computer Vision, Full-Stack |
@@ -117,11 +121,11 @@ flowchart LR
 </table>
 
 <p align="center">
-  <a href="https://github.com/dwivediadarsh496-commits/DSA-WITH-ADARSH">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dwivediadarsh496-commits&repo=DSA-WITH-ADARSH&theme=github_dark&hide_border=true&title_color=39d353&icon_color=39d353" />
+  <a href="https://github.com/Adarsh-Intelligence/DSA-WITH-ADARSH">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-Intelligence&repo=DSA-WITH-ADARSH&theme=github_dark&hide_border=true&title_color=39d353&icon_color=39d353" />
   </a>
-  <a href="https://github.com/dwivediadarsh496-commits/SIH-2026-CodeNove">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dwivediadarsh496-commits&repo=SIH-2026-CodeNove&theme=github_dark&hide_border=true&title_color=39d353&icon_color=39d353" />
+  <a href="https://github.com/Adarsh-Intelligence/SIH-2026-CodeNove">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-Intelligence&repo=SIH-2026-CodeNove&theme=github_dark&hide_border=true&title_color=39d353&icon_color=39d353" />
   </a>
 </p>
 
@@ -157,7 +161,7 @@ flowchart LR
 | 8+ AI learning certificates and 30+ Microsoft learning badges | Various |
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dwivediadarsh496-commits&theme=github_dark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Adarsh-Intelligence&theme=github_dark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 </p>
 
 ---
@@ -165,32 +169,22 @@ flowchart LR
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dwivediadarsh496-commits&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwivediadarsh496-commits&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adarsh-Intelligence&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Intelligence&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dwivediadarsh496-commits&theme=github-dark&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353" />
+  <img src="https://streak-stats.demolab.com/?user=Adarsh-Intelligence&theme=github-dark&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353" />
 </p>
 
 ### 🟩 Contribution Graph (green dots)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dwivediadarsh496-commits&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-Intelligence&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/39d353/dwivediadarsh496-commits" alt="green dots" />
-</p>
-
-### 🐍 Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dwivediadarsh496-commits/dwivediadarsh496-commits/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dwivediadarsh496-commits/dwivediadarsh496-commits/output/github-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/dwivediadarsh496-commits/dwivediadarsh496-commits/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://ghchart.rshah.org/39d353/Adarsh-Intelligence" alt="green dots" />
 </p>
 
 ---
